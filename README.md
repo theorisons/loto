@@ -2,7 +2,7 @@
 Tous les codes utilisés pour la vidéo sur le loto. (Lien vidéo youtube : https://youtu.be/24YHn0deOh4)
 
 
-constatnes.py << contient toutes les constantes
+constantes.py << contient toutes les constantes
 fonction.py << contient toutes les fonctions
 
 tiragesAleatoires.py << Génère des grilles aléatoires et enregistre le résultats dans des fichiers .txt
